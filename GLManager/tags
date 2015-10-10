@@ -1,0 +1,24 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Create2DTexture	GLManager.cpp	/^void GLManager::Create2DTexture(GLuint& txtPtr, void* image, int width, int height, GLenum type,$/;"	f	class:GLManager
+CreateBuffer	GLManager.cpp	/^void GLManager::CreateBuffer(GLuint& vbo,const void* vbuffer, int buffSize,  GLuint target, GLuint usage,$/;"	f	class:GLManager
+CreateElementBuffer	GLManager.cpp	/^void GLManager::CreateElementBuffer(GLuint& vbo,const void* vElementbuffer, int buffSize, GLuint usage)$/;"	f	class:GLManager
+CreateProgram	GLManager.cpp	/^GLuint GLManager::CreateProgram(const std::vector<GLuint> &shaderList)$/;"	f	class:GLManager
+CreateShader	GLManager.cpp	/^GLuint GLManager::CreateShader(GLenum eShaderType, const std::string &strShaderFile)$/;"	f	class:GLManager
+GLMANAGER_H	GLManager.h	8;"	d
+GLMANANGER_CPP	GLManager.cpp	9;"	d	file:
+GLManager	GLManager.h	/^class GLManager {$/;"	c
+InitializeProgram	Prog.cpp	/^void InitializeProgram()$/;"	f
+InitializeVertexBuffer	Prog.cpp	/^void InitializeVertexBuffer()$/;"	f
+display	Prog.cpp	/^void display()$/;"	f
+init	Prog.cpp	/^void init()$/;"	f
+keyboard	Prog.cpp	/^void keyboard(unsigned char key, int x, int y)$/;"	f
+main	Prog.cpp	/^int main(int argc, char* argv[])$/;"	f
+positionBufferObject	Prog.cpp	/^GLuint positionBufferObject;$/;"	v
+reshape	Prog.cpp	/^void reshape (int w, int h)$/;"	f
+vao	Prog.cpp	/^GLuint vao;$/;"	v
+vertexPositions	Prog.cpp	/^const float vertexPositions[] = {$/;"	v

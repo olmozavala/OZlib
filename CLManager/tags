@@ -1,0 +1,269 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ALLCONFS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^ALLCONFS=Debug Release $/;"	m
+AR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  AR = ar$/;"	m
+AS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^AS=as$/;"	m
+AS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^AS=as$/;"	m
+ASFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^ASFLAGS=$/;"	m
+ASFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^ASFLAGS=$/;"	m
+BUILD_SUBPROJECTS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^BUILD_SUBPROJECTS=${BUILD_SUBPROJECTS_${SUBPROJECTS}}$/;"	m
+BUILD_SUBPROJECTS_	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^BUILD_SUBPROJECTS_=.build-subprojects$/;"	m
+BUILD_SUBPROJECTS_NO	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^BUILD_SUBPROJECTS_NO=$/;"	m
+CC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  CC = gcc$/;"	m
+CC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CC=gcc-4.4$/;"	m
+CC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CC=gcc-4.4$/;"	m
+CCADMIN	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CCADMIN=CCadmin$/;"	m
+CCADMIN	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CCADMIN=CCadmin$/;"	m
+CCC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CCC=g++-4.4$/;"	m
+CCC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CCC=g++-4.4$/;"	m
+CCFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CCFLAGS=-lOpenCL$/;"	m
+CCFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CCFLAGS=$/;"	m
+CFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CFLAGS=$/;"	m
+CFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CFLAGS=$/;"	m
+CLEAN_SUBPROJECTS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}$/;"	m
+CLEAN_SUBPROJECTS_	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^CLEAN_SUBPROJECTS_=.clean-subprojects$/;"	m
+CLEAN_SUBPROJECTS_NO	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^CLEAN_SUBPROJECTS_NO=$/;"	m
+CLMANAGER_H	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	10;"	d
+CLManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^CLManager::CLManager() {$/;"	f	class:CLManager
+CLManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^CLManager::CLManager(const CLManager& orig) {$/;"	f	class:CLManager
+CLManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	/^class CLManager {$/;"	c
+CLManager	CLManager.cpp	/^CLManager::CLManager() {$/;"	f	class:CLManager
+CLManager	CLManager.cpp	/^CLManager::CLManager(const CLManager& orig) {$/;"	f	class:CLManager
+CLPROFILEROZ_H	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	9;"	d
+CLProfiler	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.cpp	/^CLProfiler::CLProfiler() {$/;"	f	class:CLProfiler
+CLProfiler	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.cpp	/^CLProfiler::CLProfiler(const CLProfiler& orig) {$/;"	f	class:CLProfiler
+CLProfiler	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^class CLProfiler {$/;"	c
+CLProfiler	CLProfiler.cpp	/^CLProfiler::CLProfiler() {$/;"	f	class:CLProfiler
+CLProfiler	CLProfiler.cpp	/^CLProfiler::CLProfiler(const CLProfiler& orig) {$/;"	f	class:CLProfiler
+CND_ARTIFACT_DIR_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_DIR_Debug=dist$/;"	m
+CND_ARTIFACT_DIR_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_DIR_Release=dist\/Release\/GNU-Linux-x86$/;"	m
+CND_ARTIFACT_NAME_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_NAME_Debug=libCLUtilsOZ.so$/;"	m
+CND_ARTIFACT_NAME_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_NAME_Release=libclutilsoz.a$/;"	m
+CND_ARTIFACT_PATH_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_PATH_Debug=dist\/libCLUtilsOZ.so$/;"	m
+CND_ARTIFACT_PATH_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_ARTIFACT_PATH_Release=dist\/Release\/GNU-Linux-x86\/libclutilsoz.a$/;"	m
+CND_BASEDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_BASEDIR=`pwd`$/;"	m
+CND_BUILDDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CND_BUILDDIR=build$/;"	m
+CND_BUILDDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CND_BUILDDIR=build$/;"	m
+CND_BUILDDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_BUILDDIR=build$/;"	m
+CND_CONF	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CND_CONF=Debug$/;"	m
+CND_CONF	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CND_CONF=Release$/;"	m
+CND_DISTDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CND_DISTDIR=dist$/;"	m
+CND_DISTDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CND_DISTDIR=dist$/;"	m
+CND_DISTDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_DISTDIR=dist$/;"	m
+CND_PACKAGE_DIR_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PACKAGE_DIR_Debug=dist\/Debug\/GNU-Linux-x86\/package$/;"	m
+CND_PACKAGE_DIR_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PACKAGE_DIR_Release=dist\/Release\/GNU-Linux-x86\/package$/;"	m
+CND_PACKAGE_NAME_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PACKAGE_NAME_Debug=libCLUtilsOZ.so.tar$/;"	m
+CND_PACKAGE_NAME_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PACKAGE_NAME_Release=CLUtilsOZ.tar$/;"	m
+CND_PACKAGE_PATH_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PACKAGE_PATH_Debug=dist\/Debug\/GNU-Linux-x86\/package\/libCLUtilsOZ.so.tar$/;"	m
+CND_PACKAGE_PATH_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PACKAGE_PATH_Release=dist\/Release\/GNU-Linux-x86\/package\/CLUtilsOZ.tar$/;"	m
+CND_PLATFORM	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CND_PLATFORM=GNU-Linux-x86$/;"	m
+CND_PLATFORM	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CND_PLATFORM=GNU-Linux-x86$/;"	m
+CND_PLATFORM_Debug	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PLATFORM_Debug=GNU-Linux-x86$/;"	m
+CND_PLATFORM_Release	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^CND_PLATFORM_Release=GNU-Linux-x86$/;"	m
+CONF	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^CONF=${DEFAULTCONF}$/;"	m
+CP	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CP=cp$/;"	m
+CP	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CP=cp$/;"	m
+CXX	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  CXX = g++$/;"	m
+CXX	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CXX=g++-4.4$/;"	m
+CXX	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CXX=g++-4.4$/;"	m
+CXXFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^CXXFLAGS=-lOpenCL$/;"	m
+CXXFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^CXXFLAGS=$/;"	m
+DEFAULTCONF	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^DEFAULTCONF=Debug$/;"	m
+EB	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^namespace EB {$/;"	n
+ERRORCODES_H	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ErrorCodes.h	9;"	d
+ErrorCodes	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ErrorCodes.cpp	/^ErrorCodes::ErrorCodes() {$/;"	f	class:ErrorCodes
+ErrorCodes	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ErrorCodes.cpp	/^ErrorCodes::ErrorCodes(const ErrorCodes& orig) {$/;"	f	class:ErrorCodes
+ErrorCodes	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ErrorCodes.h	/^class ErrorCodes {$/;"	c
+ErrorCodes	ErrorCodes.cpp	/^ErrorCodes::ErrorCodes() {$/;"	f	class:ErrorCodes
+ErrorCodes	ErrorCodes.cpp	/^ErrorCodes::ErrorCodes(const ErrorCodes& orig) {$/;"	f	class:ErrorCodes
+FC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^FC=gfortran$/;"	m
+FC	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^FC=gfortran$/;"	m
+FFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^FFLAGS=$/;"	m
+FFLAGS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^FFLAGS=$/;"	m
+FILEMANAGE_H	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/FileManager.h	9;"	d
+FileManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/FileManager.cpp	/^FileManager::FileManager() {$/;"	f	class:FileManager
+FileManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/FileManager.cpp	/^FileManager::FileManager(const FileManager& orig) {$/;"	f	class:FileManager
+FileManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/FileManager.h	/^class FileManager {$/;"	c
+FileManager	FileManager.cpp	/^FileManager::FileManager() {$/;"	f	class:FileManager
+FileManager	FileManager.cpp	/^FileManager::FileManager(const FileManager& orig) {$/;"	f	class:FileManager
+GREP	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^GREP=grep$/;"	m
+GREP	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^GREP=grep$/;"	m
+IMAGEMANAGER_H	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.h	9;"	d
+ImageManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^ImageManager::ImageManager() {$/;"	f	class:ImageManager
+ImageManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^ImageManager::ImageManager(const ImageManager& orig) {$/;"	f	class:ImageManager
+ImageManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.h	/^class ImageManager {$/;"	c
+ImageManager	ImageManager.cpp	/^ImageManager::ImageManager() {$/;"	f	class:ImageManager
+ImageManager	ImageManager.cpp	/^ImageManager::ImageManager(const ImageManager& orig) {$/;"	f	class:ImageManager
+LDLIBSOPTIONS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^LDLIBSOPTIONS=$/;"	m
+LDLIBSOPTIONS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^LDLIBSOPTIONS=$/;"	m
+LINKCMD	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  LINKCMD    = $(CXX) -o $(TARGET) $(OBJECTS) $(LDFLAGS) $(RESOURCES) $(ARCH) $(LIBS)$/;"	m
+MKDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^MKDIR=mkdir$/;"	m
+MKDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^MKDIR=mkdir$/;"	m
+NM	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^NM=nm$/;"	m
+NM	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^NM=nm$/;"	m
+OBJDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  OBJDIR     = obj\/Debug$/;"	m
+OBJDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  OBJDIR     = obj\/Release$/;"	m
+OBJECTDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^OBJECTDIR=${CND_BUILDDIR}\/${CND_CONF}\/${CND_PLATFORM}$/;"	m
+OBJECTDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^OBJECTDIR=${CND_BUILDDIR}\/${CND_CONF}\/${CND_PLATFORM}$/;"	m
+OBJECTFILES	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^OBJECTFILES= \\$/;"	m
+OBJECTFILES	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^OBJECTFILES= \\$/;"	m
+OBJECTS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^OBJECTS := \\$/;"	m
+POSTBUILDCMDS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  define POSTBUILDCMDS$/;"	m
+PREBUILDCMDS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  define PREBUILDCMDS$/;"	m
+PRELINKCMDS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  define PRELINKCMDS$/;"	m
+PROJECTNAME	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^PROJECTNAME=CLUtilsOZ$/;"	m
+PROJECTS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/Makefile	/^PROJECTS := CLUtilsOZ$/;"	m
+RANLIB	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Debug.mk	/^RANLIB=ranlib$/;"	m
+RANLIB	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-Release.mk	/^RANLIB=ranlib$/;"	m
+RESOURCES	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^RESOURCES := \\$/;"	m
+RTPS_EXPORT	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	19;"	d
+RTPS_EXPORT	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	21;"	d
+RTPS_EXPORT	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	24;"	d
+SHELLTYPE	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  SHELLTYPE := posix$/;"	m
+SHELLTYPE	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^SHELLTYPE := msdos$/;"	m
+SILENT	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  SILENT = @$/;"	m
+SUBPROJECTS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^SUBPROJECTS=${SUB_${SUB}}$/;"	m
+SUB_no	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-impl.mk	/^SUB_no=NO$/;"	m
+TARGET	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  TARGET     = $(TARGETDIR)\/libCLUtilsOZ.so$/;"	m
+TARGETDIR	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  TARGETDIR  = ..\/dist$/;"	m
+Timer	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^Timer::Timer()$/;"	f	class:Timer
+Timer	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^Timer::Timer(const Timer& t)$/;"	f	class:Timer
+Timer	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^Timer::Timer(const char* name_, int offset, int nbCalls)$/;"	f	class:Timer
+Timer	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^class RTPS_EXPORT Timer$/;"	c	namespace:EB
+Timer	timer_eb.cpp	/^Timer::Timer()$/;"	f	class:Timer
+Timer	timer_eb.cpp	/^Timer::Timer(const Timer& t)$/;"	f	class:Timer
+Timer	timer_eb.cpp	/^Timer::Timer(const char* name_, int offset, int nbCalls)$/;"	f	class:Timer
+TimerList	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^class RTPS_EXPORT TimerList : public std::map<std::string, EB::Timer*>$/;"	c	namespace:EB
+_TIME_EB_H_	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	2;"	d
+__CL_ENABLE_EXCEPTIONS	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	7;"	d
+_context	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	/^    cl::Context _context;$/;"	m	class:CLManager
+_devices	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	/^    vector<cl::Device> _devices;$/;"	m	class:CLManager
+_platformList	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	/^    vector<cl::Platform> _platformList;$/;"	m	class:CLManager
+_program	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	/^    cl::Program _program;$/;"	m	class:CLManager
+_queue	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.h	/^    cl::CommandQueue _queue;$/;"	m	class:CLManager
+addEvent	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.cpp	/^void CLProfiler::addEvent(const char* name, int device_num, int num_dev, cl::Event& event) {$/;"	f	class:CLProfiler
+addEvent	CLProfiler.cpp	/^void CLProfiler::addEvent(const char* name, int device_num, int num_dev, cl::Event& event) {$/;"	f	class:CLProfiler
+addMultipleSources	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::addMultipleSources(char* fileName1, char* fileName2) {$/;"	f	class:CLManager
+addMultipleSources	CLManager.cpp	/^void CLManager::addMultipleSources(char* fileName1, char* fileName2) {$/;"	f	class:CLManager
+addSource	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::addSource(char* fileName) {$/;"	f	class:CLManager
+addSource	CLManager.cpp	/^void CLManager::addSource(char* fileName) {$/;"	f	class:CLManager
+begin	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::begin()$/;"	f	class:Timer
+begin	timer_eb.cpp	/^void Timer::begin()$/;"	f	class:Timer
+buildProgram	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::buildProgram() {$/;"	f	class:CLManager
+buildProgram	CLManager.cpp	/^void CLManager::buildProgram() {$/;"	f	class:CLManager
+charToFloat	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^float* ImageManager::charToFloat(unsigned char* array, int size) {$/;"	f	class:ImageManager
+charToFloat	ImageManager.cpp	/^float* ImageManager::charToFloat(unsigned char* array, int size) {$/;"	f	class:ImageManager
+checkReturnCode	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Package-Debug.bash	/^function checkReturnCode$/;"	f
+checkReturnCode	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Package-Release.bash	/^function checkReturnCode$/;"	f
+cl_timing	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        cl_timing()$/;"	f	struct:CLProfiler::cl_timing
+cl_timing	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^    struct cl_timing$/;"	s	class:CLProfiler
+config	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/Makefile	/^  config=debug$/;"	m
+config	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/build/Makefile	/^  config=debug$/;"	m
+coordFromIndx	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^void ImageManager::coordFromIndx(int indx, int width, int& i, int& j, int dim) {$/;"	f	class:ImageManager
+coordFromIndx	ImageManager.cpp	/^void ImageManager::coordFromIndx(int indx, int width, int& i, int& j, int dim) {$/;"	f	class:ImageManager
+copyFileToTmpDir	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Package-Debug.bash	/^function copyFileToTmpDir$/;"	f
+copyFileToTmpDir	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Package-Release.bash	/^function copyFileToTmpDir$/;"	f
+count	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	int count;$/;"	m	class:EB::Timer
+elapsed	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	double elapsed;$/;"	m	class:EB::Timer
+end	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::end()$/;"	f	class:Timer
+end	timer_eb.cpp	/^void Timer::end()$/;"	f	class:Timer
+end_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double end_time;$/;"	m	struct:CLProfiler::cl_timing
+getContext	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^cl::Context* CLManager::getContext() {$/;"	f	class:CLManager
+getContext	CLManager.cpp	/^cl::Context* CLManager::getContext() {$/;"	f	class:CLManager
+getCount	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	int getCount() { return count;}$/;"	f	class:EB::Timer
+getDeviceInfo	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::getDeviceInfo(int device) {$/;"	f	class:CLManager
+getDeviceInfo	CLManager.cpp	/^void CLManager::getDeviceInfo(int device) {$/;"	f	class:CLManager
+getDevices	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^vector<cl::Device>* CLManager::getDevices() {$/;"	f	class:CLManager
+getDevices	CLManager.cpp	/^vector<cl::Device>* CLManager::getDevices() {$/;"	f	class:CLManager
+getGroupSize	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::getGroupSize(int maxSize, int rows, int cols, int& grp_size_x, int& grp_size_y, int& tot_grps_x, int& tot_grps_y, bool print) {$/;"	f	class:CLManager
+getGroupSize	CLManager.cpp	/^void CLManager::getGroupSize(int maxSize, int rows, int cols, int& grp_size_x, int& grp_size_y, int& tot_grps_x, int& tot_grps_y, bool print) {$/;"	f	class:CLManager
+getMaxWorkGroupSize	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^int CLManager::getMaxWorkGroupSize(int device) {$/;"	f	class:CLManager
+getMaxWorkGroupSize	CLManager.cpp	/^int CLManager::getMaxWorkGroupSize(int device) {$/;"	f	class:CLManager
+getPlatformList	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^vector<cl::Platform>* CLManager::getPlatformList() {$/;"	f	class:CLManager
+getPlatformList	CLManager.cpp	/^vector<cl::Platform>* CLManager::getPlatformList() {$/;"	f	class:CLManager
+getProgram	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^cl::Program* CLManager::getProgram() {$/;"	f	class:CLManager
+getProgram	CLManager.cpp	/^cl::Program* CLManager::getProgram() {$/;"	f	class:CLManager
+getQueue	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^cl::CommandQueue* CLManager::getQueue() {$/;"	f	class:CLManager
+getQueue	CLManager.cpp	/^cl::CommandQueue* CLManager::getQueue() {$/;"	f	class:CLManager
+getSizeT	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^cl::size_t < 3 > ImageManager::getSizeT(int x, int y, int z) {$/;"	f	class:ImageManager
+getSizeT	ImageManager.cpp	/^cl::size_t < 3 > ImageManager::getSizeT(int x, int y, int z) {$/;"	f	class:ImageManager
+indxFromCoord	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^int ImageManager::indxFromCoord(int width, int i, int j, int dim) {$/;"	f	class:ImageManager
+indxFromCoord	ImageManager.cpp	/^int ImageManager::indxFromCoord(int width, int i, int j, int dim) {$/;"	f	class:ImageManager
+initContext	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::initContext(bool OpenGL) {$/;"	f	class:CLManager
+initContext	CLManager.cpp	/^void CLManager::initContext(bool OpenGL) {$/;"	f	class:CLManager
+initQueue	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::initQueue() {$/;"	f	class:CLManager
+initQueue	CLManager.cpp	/^void CLManager::initQueue() {$/;"	f	class:CLManager
+loadImage	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^unsigned char* ImageManager::loadImage(char* fileName, int& width, int& height) {$/;"	f	class:ImageManager
+loadImage	ImageManager.cpp	/^unsigned char* ImageManager::loadImage(char* fileName, int& width, int& height) {$/;"	f	class:ImageManager
+loadImageGrayScale	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^unsigned char* ImageManager::loadImageGrayScale(char* fileName, int& width, int& height) {$/;"	f	class:ImageManager
+loadImageGrayScale	ImageManager.cpp	/^unsigned char* ImageManager::loadImageGrayScale(char* fileName, int& width, int& height) {$/;"	f	class:ImageManager
+makeDirectory	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Package-Debug.bash	/^function makeDirectory$/;"	f
+makeDirectory	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Package-Release.bash	/^function makeDirectory$/;"	f
+max_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double max_time;$/;"	m	struct:CLProfiler::cl_timing
+min_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double min_time;$/;"	m	struct:CLProfiler::cl_timing
+name	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	std::string name;$/;"	m	class:EB::Timer
+nbCalls	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	int nbCalls;$/;"	m	class:EB::Timer
+num_times	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        int num_times;$/;"	m	struct:CLProfiler::cl_timing
+offset	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	int offset;$/;"	m	class:EB::Timer
+print	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::print(FILE* fd, int label_width)$/;"	f	class:Timer
+print	timer_eb.cpp	/^void Timer::print(FILE* fd, int label_width)$/;"	f	class:Timer
+printAll	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.cpp	/^void CLProfiler::printAll() {$/;"	f	class:CLProfiler
+printAll	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::printAll(FILE* fd, int label_width)$/;"	f	class:Timer
+printAll	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^    void printAll() {$/;"	f	class:EB::TimerList
+printAll	CLProfiler.cpp	/^void CLProfiler::printAll() {$/;"	f	class:CLProfiler
+printAll	timer_eb.cpp	/^void Timer::printAll(FILE* fd, int label_width)$/;"	f	class:Timer
+printError	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^void CLManager::printError(cl::Error ex) {$/;"	f	class:CLManager
+printError	CLManager.cpp	/^void CLManager::printError(cl::Error ex) {$/;"	f	class:CLManager
+printImage	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^void ImageManager::printImage(int width, int height, float* buf, int skip) {$/;"	f	class:ImageManager
+printImage	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^void ImageManager::printImage(int width, int height, unsigned char* buf, int skip) {$/;"	f	class:ImageManager
+printImage	ImageManager.cpp	/^void ImageManager::printImage(int width, int height, float* buf, int skip) {$/;"	f	class:ImageManager
+printImage	ImageManager.cpp	/^void ImageManager::printImage(int width, int height, unsigned char* buf, int skip) {$/;"	f	class:ImageManager
+printReset	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::printReset()$/;"	f	class:Timer
+printReset	timer_eb.cpp	/^void Timer::printReset()$/;"	f	class:Timer
+print_cl_error	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ErrorCodes.cpp	/^char* ErrorCodes::print_cl_error(cl_int err){$/;"	f	class:ErrorCodes
+print_cl_error	ErrorCodes.cpp	/^char* ErrorCodes::print_cl_error(cl_int err){$/;"	f	class:ErrorCodes
+queue_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double queue_time;$/;"	m	struct:CLProfiler::cl_timing
+readFile	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/FileManager.cpp	/^char* FileManager::readFile(const char* fileName, int& m_size){$/;"	f	class:FileManager
+readFile	FileManager.cpp	/^char* FileManager::readFile(const char* fileName, int& m_size){$/;"	f	class:FileManager
+reset	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::reset()$/;"	f	class:Timer
+reset	timer_eb.cpp	/^void Timer::reset()$/;"	f	class:Timer
+scale	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	float scale;$/;"	m	class:EB::Timer
+set	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::set(float tt)$/;"	f	class:Timer
+set	timer_eb.cpp	/^void Timer::set(float tt)$/;"	f	class:Timer
+sh	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/nbproject/Makefile-variables.mk	/^ROOT:sh = test -f nbproject\/private\/Makefile-variables.mk || \\$/;"	m
+start	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	void start() { begin(); }$/;"	f	class:EB::Timer
+start_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double start_time;$/;"	m	struct:CLProfiler::cl_timing
+stop	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	void stop() { end(); }$/;"	f	class:EB::Timer
+submit_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double submit_time;$/;"	m	struct:CLProfiler::cl_timing
+t	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	float t;$/;"	m	class:EB::Timer
+t1	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	clock_t t1;$/;"	m	class:EB::Timer
+t2	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	clock_t t2;$/;"	m	class:EB::Timer
+t_end	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	struct timeval t_start, t_end;$/;"	m	class:EB::Timer	typeref:struct:EB::Timer::
+t_start	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	struct timeval t_start, t_end;$/;"	m	class:EB::Timer	typeref:struct:EB::Timer::timeval
+timeList	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	static std::vector<Timer*> timeList;$/;"	m	class:EB::Timer
+timings	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^    std::map<std::string, cl_timing > timings;$/;"	m	class:CLProfiler
+total_time	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.h	/^        double total_time;$/;"	m	struct:CLProfiler::cl_timing
+unit	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^	std::string unit;$/;"	m	class:EB::Timer
+writeAllToFile	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^void Timer::writeAllToFile(std::string filename) $/;"	f	class:Timer
+writeAllToFile	timer_eb.cpp	/^void Timer::writeAllToFile(std::string filename) $/;"	f	class:Timer
+writeGrayScaleImage	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^void ImageManager::writeGrayScaleImage(char* fileName, float* outBuf, FREE_IMAGE_FORMAT format, int width, int height) {$/;"	f	class:ImageManager
+writeGrayScaleImage	ImageManager.cpp	/^void ImageManager::writeGrayScaleImage(char* fileName, float* outBuf, FREE_IMAGE_FORMAT format, int width, int height) {$/;"	f	class:ImageManager
+writeImage	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^void ImageManager::writeImage(char* fileName, float* outBuf, FREE_IMAGE_FORMAT format, int width, int height) {$/;"	f	class:ImageManager
+writeImage	ImageManager.cpp	/^void ImageManager::writeImage(char* fileName, float* outBuf, FREE_IMAGE_FORMAT format, int width, int height) {$/;"	f	class:ImageManager
+writeToFile	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.h	/^    void writeToFile(std::string filename) {$/;"	f	class:EB::TimerList
+~CLManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLManager.cpp	/^CLManager::~CLManager() {$/;"	f	class:CLManager
+~CLManager	CLManager.cpp	/^CLManager::~CLManager() {$/;"	f	class:CLManager
+~CLProfiler	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/CLProfiler.cpp	/^CLProfiler::~CLProfiler() {$/;"	f	class:CLProfiler
+~CLProfiler	CLProfiler.cpp	/^CLProfiler::~CLProfiler() {$/;"	f	class:CLProfiler
+~ErrorCodes	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ErrorCodes.cpp	/^ErrorCodes::~ErrorCodes() {$/;"	f	class:ErrorCodes
+~ErrorCodes	ErrorCodes.cpp	/^ErrorCodes::~ErrorCodes() {$/;"	f	class:ErrorCodes
+~FileManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/FileManager.cpp	/^FileManager::~FileManager() {$/;"	f	class:FileManager
+~FileManager	FileManager.cpp	/^FileManager::~FileManager() {$/;"	f	class:FileManager
+~ImageManager	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/ImageManager.cpp	/^ImageManager::~ImageManager() {$/;"	f	class:ImageManager
+~ImageManager	ImageManager.cpp	/^ImageManager::~ImageManager() {$/;"	f	class:ImageManager
+~Timer	/media/USBSimpleDrive/Olmo/OpenCL_Examples/Netbeans/CLUtilsOZ/timer_eb.cpp	/^Timer::~Timer()$/;"	f	class:Timer
+~Timer	timer_eb.cpp	/^Timer::~Timer()$/;"	f	class:Timer
